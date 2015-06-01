@@ -32,3 +32,12 @@ d:\Projects\GitHub\TenderIt\TenderIt\bin\ru\System.Web.WebPages.Razor.resources.
 d:\Projects\GitHub\TenderIt\TenderIt\obj\Debug\TenderIt.csprojResolveAssemblyReference.cache
 d:\Projects\GitHub\TenderIt\TenderIt\obj\Debug\TenderIt.dll
 d:\Projects\GitHub\TenderIt\TenderIt\obj\Debug\TenderIt.pdb
+d:\Projects\GitHub\TenderIt\TenderIt\bin\NLog.dll
+d:\Projects\GitHub\TenderIt\TenderIt\bin\NLog.xml
+d:\Projects\GitHub\TenderIt\TenderIt\bin\Ninject.dll
+d:\Projects\GitHub\TenderIt\TenderIt\bin\Ninject.Web.Common.dll
+d:\Projects\GitHub\TenderIt\TenderIt\bin\Ninject.Web.Mvc.dll
+d:\Projects\GitHub\TenderIt\TenderIt\bin\WebActivatorEx.dll
+d:\Projects\GitHub\TenderIt\TenderIt\bin\Ninject.xml
+d:\Projects\GitHub\TenderIt\TenderIt\bin\Ninject.Web.Common.xml
+d:\Projects\GitHub\TenderIt\TenderIt\bin\Ninject.Web.Mvc.xml
